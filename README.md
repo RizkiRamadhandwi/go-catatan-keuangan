@@ -103,8 +103,8 @@ CREATE TABLE expenses (
     - `GET` -> `/api/v1/expenses/type/:type`
     - Params:
       ```
-      /credit
-      /debit
+      /CREDIT
+      /DEBIT
       ``` 
     - Response:
       ```json
